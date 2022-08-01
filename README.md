@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ninaah
-- 👀 I’m interested in LUA, JSCRIPT, CSS & HTML
-- 🌱 I’m currently learning LUA, JSCRIPT, CSS & HTML
-- 💞️ I’m looking to collaborate on LUA, JSCRIPT, CSS & HTML, I accept to learn more about these too :D
+- 👋 Hi, I’m Ana Oliveira
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript, CSS & HTML
+- 💞️ I’m looking to learn more about JavaScript, LUA, CSS & HTML
 - 📫 How to reach me -> Discord: ninaxt#3535
 
 <!---
